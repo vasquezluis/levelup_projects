@@ -1,0 +1,18 @@
+body{
+  background: #212121;
+}
+.card{
+  background: #121212;
+}
+#contador{
+ font-size: 56px;
+}
+.verde{
+  color: yellowgreen;
+}
+.rojo{
+  color: red;
+}
+.gris{
+  color: gray
+}
