@@ -1,9 +1,10 @@
 import StyledComponents from "./components/styledComponents/StyledComponents";
+import TailWindCSS from "./components/tailwindCSS/TailWindCSS";
 
 function App() {
   return (
     <div>
-      <StyledComponents />
+      <TailWindCSS />
     </div>
   );
 }
